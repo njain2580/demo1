@@ -1,2 +1,4 @@
 # demo1
-First Git repo
+My first Git repo
+<br>
+Author - NJ
